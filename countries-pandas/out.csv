@@ -1,0 +1,6 @@
+﻿countryName,callingCodes,capital,population,flag,alpha3Code,currencyCode,currencyName,symbol,meanCurrency
+Australia,61,Canberra,24117360,https://restcountries.eu/data/aus.svg,AUS,AUD,Australian dollar,$,1.5656
+Brazil,55,Brasília,206135893,https://restcountries.eu/data/bra.svg,BRA,BRL,Brazilian real,R$,4.3066
+China,86,Beijing,1377422166,https://restcountries.eu/data/chn.svg,CHN,CNY,Chinese yuan,¥,7.5208
+United Kingdom of Great Britain and Northern Ireland,44,London,65110000,https://restcountries.eu/data/gbr.svg,GBR,GBP,British pound,£,0.8776
+United States of America,1,Washington D.C.,323947000,https://restcountries.eu/data/usa.svg,USA,USD,United States dollar,$,1.1798
