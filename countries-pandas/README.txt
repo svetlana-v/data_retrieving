@@ -9,6 +9,12 @@ File ratesPD.py collects general info about all countries
 together with the corresponding exchange rates for the past month
 and computes mean values for it.
 
+The code generates the following files:
+	out.csv
+	report.html
+	/img
+	mystyle.css
+
 It is possible to set target countries in input.conf file
 by specifying corresponding alpha3Code.
 

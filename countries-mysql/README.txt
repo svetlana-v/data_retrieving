@@ -16,6 +16,9 @@ File ratesSQL.py creates mysql table for all countries and
 mysql table for the corresponding exchange rates for the past
 n=30 days.
 
+The code generates the following files:
+	countriesWorkbook.xlsx
+
 It is possible to set target countries in target_countries list
 variable in input.conf by specifying corresponding alpha3Code.
 
